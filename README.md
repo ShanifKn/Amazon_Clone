@@ -1,6 +1,6 @@
 # Amazon Clone using React JS and Firebase
 
-### [Live Site](https://clone-fcc92.web.app)
+### [Live Site]
 
 ![Title-image](https://github.com/nitish1310/amazon-clone/blob/master/public/amazon-clone.JPG)
 
