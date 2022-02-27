@@ -2,7 +2,7 @@
 
 ### [Live Site]
 
-![Title-image](https://github.com/nitish1310/amazon-clone/blob/master/public/amazon-clone.JPG)
+
 
 ## Introduction
 This is a code repository for the Amazon Clone. 
