@@ -1,6 +1,8 @@
 # Amazon Clone using React JS and Firebase
 
 
+https://fir-8d970.firebaseapp.com/
+
 ## Introduction
 This is a code repository for the Amazon Clone. 
 
