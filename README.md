@@ -1,10 +1,5 @@
 # Amazon Clone using React JS and Firebase
 
-### [Live Site]
-![Uploading home.png…]()
-![Uploading bot.png…]()
-![Uploading login.png…]()
-
 
 ## Introduction
 This is a code repository for the Amazon Clone. 
